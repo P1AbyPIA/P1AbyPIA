@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @P1AbyPIA
-- 👀 I’m interested in where blockchain and creative power of art meets
-- 🌱 I’m currently learning how this whole blockchain works
-- 💞️ I’m looking to collaborate on creating a launchpad where tokens can help distribution of art - not just regular ERC-721 tokens but a mix of various token standarts
+-  Hi, I’m @P1AbyPIA, interested in where blockchain and the creative power of art meet.
